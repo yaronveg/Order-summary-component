@@ -1,0 +1,13 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300;400;500;600;700;800;900&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  font-family: "Red Hat Display";
+}
+body {
+  background: url(images/pattern-background-desktop.svg) no-repeat, #e0e8ff;
+}
+a {
+  text-decoration: none;
+}
