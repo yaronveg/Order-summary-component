@@ -39,9 +39,10 @@ h1 {
   margin-bottom: 20px;
 }
 .sumText {
-  color: hsl(224, 23%, 55%);
+  color: hsl(222, 20%, 61%);
   font-weight: 600;
   margin-bottom: 30px;
+  line-height: 1.5rem;
 }
 .plan {
   display: grid;
