@@ -22,3 +22,20 @@ a {
   background: #fff;
   box-shadow: 0 10px 30px rgba(0, 0, 150, 0.15);
 }
+
+img {
+  width: 100%;
+}
+.cardBody {
+  text-align: center;
+  padding: 35px 25px;
+  color: hsl(223, 47%, 23%);
+}
+h1 {
+  font-size: 1.5rem;
+  font-weight: 900;
+  margin-bottom: 20px;
+}
+.sumText {
+  margin-bottom: 15px;
+}
