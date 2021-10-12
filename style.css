@@ -39,3 +39,26 @@ h1 {
 .sumText {
   margin-bottom: 15px;
 }
+.plan {
+  display: grid;
+  grid-template-columns: 1fr 3fr 2fr;
+  align-items: center;
+  padding: 15px;
+  margin-bottom: 20px;
+  background: rgba(248, 248, 255, 1);
+  border-radius: 7px;
+  font-size: 0.9rem;
+}
+.plan img {
+  width: 80%;
+}
+.price {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: start;
+  margin-left: 5px;
+}
+.price strong {
+  font-weight: 900;
+}
