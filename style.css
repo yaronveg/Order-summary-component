@@ -83,3 +83,13 @@ button.proceed {
 button.proceed:hover {
   background: rgba(56, 41, 224, 0.75);
 }
+
+.cancel {
+  font-size: 0.8rem;
+  font-weight: 900;
+
+  color: hsl(224, 23%, 55%);
+}
+.cancel:hover {
+  color: hsl(223, 47%, 23%);
+}
