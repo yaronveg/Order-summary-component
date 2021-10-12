@@ -32,7 +32,7 @@ img {
 }
 .cardBody {
   text-align: center;
-  padding: 50px;
+  padding: 40px;
   color: hsl(223, 47%, 23%);
 }
 h1 {
@@ -41,7 +41,9 @@ h1 {
   margin-bottom: 20px;
 }
 .sumText {
+  font-size: 1rem;
   color: hsl(222, 20%, 61%);
+  padding: 0 20px;
   font-weight: 600;
   margin-bottom: 30px;
   line-height: 1.5rem;
