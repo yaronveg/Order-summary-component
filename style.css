@@ -25,15 +25,16 @@ a {
   box-shadow: 0 10px 30px rgba(0, 0, 150, 0.15);
 }
 
-img {
+orderSumComponent > img {
   width: 100%;
-  z-index: -1;
-  margin-bottom: -1px;
+  z-index: 0;
 }
 .cardBody {
   text-align: center;
   padding: 40px;
   color: hsl(223, 47%, 23%);
+  z-index: 10;
+  margin-top: -1px;
 }
 h1 {
   font-size: 1.7rem;
