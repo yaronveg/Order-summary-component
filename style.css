@@ -17,7 +17,7 @@ a {
 .orderSumCard {
   position: absolute;
   width: 420px;
-  border-radius: 15px;
+  border-radius: 20px;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
