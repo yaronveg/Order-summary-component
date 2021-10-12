@@ -80,3 +80,6 @@ button.proceed {
 
   cursor: pointer;
 }
+button.proceed:hover {
+  background: rgba(56, 41, 224, 0.75);
+}
