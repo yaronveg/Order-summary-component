@@ -80,6 +80,10 @@ h1 {
   font-weight: 900;
   text-decoration: underline;
 }
+.change:hover {
+  color: rgba(56, 41, 224, 0.7);
+  text-decoration: none;
+}
 
 button.proceed {
   display: block;
@@ -110,4 +114,5 @@ button.proceed:hover {
 }
 .cancel:hover {
   color: hsl(223, 47%, 23%);
+  font-weight: 900;
 }
