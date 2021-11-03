@@ -118,3 +118,39 @@ button.proceed:hover {
   color: hsl(223, 47%, 23%);
   font-weight: 900;
 }
+
+/* Responsivity */
+@media (max-width: 375px) {
+  .orderSumCard {
+    width: 90%;
+    /* margin: 10px; */
+  }
+  h1 {
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+  }
+  .sumText {
+    font-size: 0.9rem;
+    line-height: 1.6rem;
+    margin-bottom: 1rem;
+  }
+  .plan {
+    grid-template-columns: 1.3fr 3fr 2fr;
+  }
+  .price {
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+  }
+  .change {
+    font-size: 0.9rem;
+  }
+  button.proceed {
+    padding: 1rem;
+    font-size: 1rem;
+    margin-bottom: 24px;
+  }
+
+  .cancel {
+    font-size: 0.9rem;
+  }
+}
